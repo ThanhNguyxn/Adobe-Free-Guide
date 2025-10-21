@@ -4,6 +4,9 @@ A guide on how to install Adobe applications for free.
 
 ## 📋 Contents
 
+<details>
+<summary><strong>Table of Contents (Click to expand/collapse)</strong></summary>
+
 1. [**Introduction**](#-introduction)
    - Overview of Adobe applications.
 2. [**Important Warning About GenP**](#%EF%B8%8F-important-warning-about-genp)
@@ -21,9 +24,12 @@ A guide on how to install Adobe applications for free.
 5. [**Frequently Asked Questions**](#-frequently-asked-questions)
    - Common questions and answers.
 
+</details>
+
 ## 👋 Introduction
 
-### ℹ️ What is Adobe?
+<details>
+<summary><strong>ℹ️ What is Adobe? (Click to expand/collapse)</strong></summary>
 
 Adobe Inc. is a globally recognized software company that specializes in multimedia and creativity software products. It is renowned for its innovative tools that empower individuals and businesses to design, create, and communicate visually.
 
@@ -40,9 +46,12 @@ Here are some of Adobe's most famous applications:
 
 These applications are widely used across industries such as graphic design, video production, photography, and digital marketing.
 
+</details>
+
 ## ⚠️ Important Warning About GenP
 
-### What is GenP?
+<details>
+<summary><strong>What is GenP? (Click to expand/collapse)</strong></summary>
 
 `GenP`, short for "Generic Patcher," is a tool designed to extend the trial periods of `Adobe Creative Cloud` software on `Windows` systems. It modifies certain system files to reset the trial timer, effectively allowing users to use Adobe applications like `Photoshop` and `Premiere Pro` without a valid subscription.
 
@@ -64,7 +73,12 @@ These applications are widely used across industries such as graphic design, vid
 
 > The `Source Code` folder may not be updated to the latest version. Please follow the instructions in the [Installation Requirements](#-installation-requirements) section to download the latest version from GitHub.
 
+</details>
+
 ## 📥 Installation Requirements
+
+<details>
+<summary><strong>Installation Requirements (Click to expand/collapse)</strong></summary>
 
 ### Adobe Creative Cloud
 
@@ -74,7 +88,12 @@ These applications are widely used across industries such as graphic design, vid
 
 - Download `GenP` (GP) from its official source: [GenP](https://gen.paramore.su/).
 
+</details>
+
 ## 🛠️ Step-by-Step Guide
+
+<details>
+<summary><strong>Step-by-Step Guide (Click to expand/collapse)</strong></summary>
 
 ### Phase 1: 🧹 Preparation and Thorough Uninstallation
 
@@ -165,7 +184,12 @@ The final step is to prevent the application from connecting to Adobe's servers.
 3. **Complete the Process**:
    - You can now re-enable your antivirus software (`Real-time protection`) that was disabled in Phase 3.
 
+</details>
+
 ## ❓ Frequently Asked Questions
+
+<details>
+<summary><strong>Frequently Asked Questions (Click to expand/collapse)</strong></summary>
 
 ### 1. Is this guide legal?
 
@@ -186,3 +210,5 @@ The final step is to prevent the application from connecting to Adobe's servers.
 ### 5. Is there an alternative to using GenP?
 
 - The safest alternative is to purchase a **legitimate license** for Adobe software. This supports the developers and ensures you receive updates and support.
+
+</details>
