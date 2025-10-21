@@ -174,10 +174,6 @@ The final step is to prevent the application from connecting to Adobe's servers.
 ### 5. Is there an alternative to using GenP?
 - The safest alternative is to purchase a **legitimate license** for Adobe software. This supports the developers and ensures you receive updates and support.
 
-### Note about the `source` folder
+### Note about the `Source Code` folder
 
-The `source` folder may not be updated to the latest version. Please follow the instructions in the [README file](#installation-requirements) to download the latest version from GitHub.
-
-## Download {#download}
-
-Follow the steps below to download the necessary files for this guide.
+The `Source Code` folder may not be updated to the latest version. Please follow the instructions in the [README file](#installation-requirements) to download the latest version from GitHub.
