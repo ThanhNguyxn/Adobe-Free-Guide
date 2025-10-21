@@ -35,19 +35,18 @@ These applications are widely used across industries such as graphic design, vid
 ### What is GenP?
 GenP, short for "Generic Patcher," is a tool designed to extend the trial periods of Adobe Creative Cloud software on Windows systems. It modifies certain system files to reset the trial timer, effectively allowing users to use Adobe applications like Photoshop and Premiere Pro without a valid subscription.
 
-### Legal and Security Risks
-
-While GenP is often promoted as an educational or research tool, using it comes with significant risks:
+### Risks of Using GenP
 
 #### Legal Risks
-- Utilizing software like GenP to bypass copyright protections and avoid paying for licenses constitutes software piracy. This is illegal in most countries, including Vietnam.
+- Using tools like GenP to bypass copyright protections constitutes software piracy, which is illegal in most countries, including Vietnam.
 
 #### Security Risks
-- Downloading and running executable files (.exe) from unofficial sources, especially cracking tools, is one of the most common ways computers become infected with malware, viruses, trojans, or ransomware.
-- These tools often require administrative privileges and may even ask you to disable antivirus software to function. This creates a significant security vulnerability, potentially allowing malicious software to gain full control of your system, steal personal information, passwords, or financial data.
+- Cracking tools often come with malware, viruses, or ransomware. They may require administrative privileges and disabling antivirus software, creating significant security vulnerabilities.
 
 ### Disclaimer
 This guide does not endorse or encourage the use of tools like GenP. It is provided solely for educational purposes to raise awareness about the associated risks.
+
+---
 
 ## Getting Started
 
@@ -175,11 +174,10 @@ The final step is to prevent the application from connecting to Adobe's servers.
 ### 5. Is there an alternative to using GenP?
 - The safest alternative is to purchase a **legitimate license** for Adobe software. This supports the developers and ensures you receive updates and support.
 
-## Tải mã nguồn
+### Note about the `source` folder
 
-Để tải mã nguồn, hãy làm theo các bước sau:
+The `source` folder may not be updated to the latest version. Please follow the instructions in the [README file](#installation-requirements) to download the latest version from GitHub.
 
-1. Truy cập vào trang GitHub của dự án.
-2. Nhấn vào nút **Code** (màu xanh lá cây).
-3. Chọn **Download ZIP** để tải phiên bản mã nguồn hiện tại.
-4. Giải nén tệp ZIP và sử dụng mã nguồn trong thư mục `source code`.
+## Download {#download}
+
+Follow the steps below to download the necessary files for this guide.
