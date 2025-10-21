@@ -1,8 +1,18 @@
-# Adobe Free Guide
+Xin lỗi bạn, tôi hiểu rồi. Bạn không thấy cái nút "Sao chép" đó trên giao diện của bạn.
+
+Không sao cả\! Đó chỉ là một tính năng tiện ích của giao diện chat.
+
+**Đây là cách giải quyết đơn giản nhất:**
+
+Tôi sẽ dán toàn bộ nội dung file README (dưới dạng văn bản thuần túy) ngay bên dưới. Bạn chỉ cần **bôi đen toàn bộ văn bản** (từ dòng đầu tiên đến dòng cuối cùng của nội dung bên dưới) và **nhấn `Ctrl+C`** (để Sao chép), sau đó **nhấn `Ctrl+V`** (để Dán) vào tệp `README.md` của bạn.
+
+-----
+
+# 📖 Adobe Free Guide
 
 A guide on how to install Adobe applications for free.
 
-## Contents
+## 📋 Contents
 
 1.  **Introduction**
       * Overview of Adobe applications.
@@ -13,13 +23,13 @@ A guide on how to install Adobe applications for free.
 4.  **Frequently Asked Questions**
       * Answers to common questions.
 
-## Introduction
+## 👋 Introduction
 
-### What is Adobe?
+### ℹ️ What is Adobe?
 
 Adobe Inc. is a globally recognized software company that specializes in multimedia and creativity software products. It is renowned for its innovative tools that empower individuals and businesses to design, create, and communicate visually.
 
-### Popular Adobe Applications
+### 🌟 Popular Adobe Applications
 
 Here are some of Adobe's most famous applications:
 
@@ -58,13 +68,13 @@ These applications are widely used across industries such as graphic design, vid
 
 -----
 
-## Getting Started
+## 🏁 Getting Started
 
 Follow the steps in this guide to easily and safely install Adobe applications for free.
 
-## Step-by-Step Guide
+## 👣 Step-by-Step Guide
 
-### Phase 1: Preparation and Thorough Uninstallation
+### Phase 1: 🧹 Preparation and Thorough Uninstallation
 
 The goal of this phase is to ensure your computer is completely "clean" of any old Adobe versions to avoid conflicts during installation.
 
@@ -78,7 +88,7 @@ Before proceeding, make sure to uninstall all existing Adobe applications (such 
 
 Download the necessary files mentioned in this guide to proceed with the installation.
 
-### Installation Requirements
+### 📥 Installation Requirements
 
 #### Adobe Creative Cloud
 
@@ -88,7 +98,7 @@ Download the necessary files mentioned in this guide to proceed with the install
 
   - Download `GenP` (GP) from its official source: [GenP](https://gen.paramore.su/).
 
-### Phase 2: Installing Creative Cloud (CC)
+### Phase 2: ☁️ Installing Creative Cloud (CC)
 
 Now you will install Adobe's main management tool.
 
@@ -99,7 +109,7 @@ Now you will install Adobe's main management tool.
 3.  **Important Note**: During the installation process, if a popup window appears, make sure to **uncheck** the box for `Adobe Genuine Service (AGS)` before proceeding.
 4.  Wait for Creative Cloud to finish installing.
 
-### Phase 3: Configuration and Activation Preparation
+### Phase 3: ⚙️ Configuration and Activation Preparation
 
 Before activation, you need to configure Creative Cloud (CC) and disable your antivirus software.
 
@@ -116,8 +126,6 @@ Before activation, you need to configure Creative Cloud (CC) and disable your an
       * `Automatically keep Creative Cloud up to date`
       * Refer to the image below for reference:
 
-      ![Creative Cloud Settings](./images/creative-cloud-settings.png)
-
 4.  Click `"Done"`.
 
 5.  Go back to `File` -\> `Quit` to ensure the application is completely closed.
@@ -129,7 +137,7 @@ Before activation, you need to configure Creative Cloud (CC) and disable your an
 3.  Temporarily turn **Off** the `"Real-time protection"` option.
       * This step ensures that the `"GB"` tool is not blocked during the process.
 
-### Phase 4: Activation (Using Adobe GB)
+### Phase 4: 🔑 Activation (Using Adobe GB)
 
 This is the software "cracking" step.
 
@@ -163,7 +171,7 @@ This is the software "cracking" step.
       * Click `"Search"` again to detect the newly installed application.
       * Click the `"P" (Patch)` button to activate the specific application.
 
-### Phase 5: Blocking Internet Connection
+### Phase 5: 🛡️ Blocking Internet Connection
 
 The final step is to prevent the application from connecting to Adobe's servers.
 
