@@ -1,11 +1,3 @@
-Xin lỗi bạn, tôi hiểu rồi. Bạn không thấy cái nút "Sao chép" đó trên giao diện của bạn.
-
-Không sao cả\! Đó chỉ là một tính năng tiện ích của giao diện chat.
-
-**Đây là cách giải quyết đơn giản nhất:**
-
-Tôi sẽ dán toàn bộ nội dung file README (dưới dạng văn bản thuần túy) ngay bên dưới. Bạn chỉ cần **bôi đen toàn bộ văn bản** (từ dòng đầu tiên đến dòng cuối cùng của nội dung bên dưới) và **nhấn `Ctrl+C`** (để Sao chép), sau đó **nhấn `Ctrl+V`** (để Dán) vào tệp `README.md` của bạn.
-
 -----
 
 # 📖 Adobe Free Guide
