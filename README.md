@@ -174,3 +174,12 @@ The final step is to prevent the application from connecting to Adobe's servers.
 
 ### 5. Is there an alternative to using GenP?
 - The safest alternative is to purchase a **legitimate license** for Adobe software. This supports the developers and ensures you receive updates and support.
+
+## Tải mã nguồn
+
+Để tải mã nguồn, hãy làm theo các bước sau:
+
+1. Truy cập vào trang GitHub của dự án.
+2. Nhấn vào nút **Code** (màu xanh lá cây).
+3. Chọn **Download ZIP** để tải phiên bản mã nguồn hiện tại.
+4. Giải nén tệp ZIP và sử dụng mã nguồn trong thư mục `source code`.
