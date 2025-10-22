@@ -139,10 +139,13 @@ Before activation, you need to configure Creative Cloud (CC) and disable your an
 
 This is the software "cracking" step.
 
-1.  **Extract and Run Adobe GB**:
+1. **Install and run Adobe GB**:
 
-      * Extract the `Adobe GB` file.
-      * Right-click on the executable and select `Run as administrator`.
+      * Download the `Adobe GB` tool from the official source.
+      * Extract the downloaded file to a folder on your computer.
+      * Locate and run the `run_build.bat` file by double-clicking it.
+      * The process will automatically create a `Release` folder containing the main executable file for `Adobe GB`.
+      * Right-click on the `Adobe GB` executable file and select `Run as administrator` to launch the tool.
 
 2.  **Activate Creative Cloud**:
 
